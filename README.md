@@ -1,5 +1,5 @@
 # P2PChat
-An academic project on implementing a P2P and client-server architecture chat program using Python.
+An academic project on implementing a P2P and client-server architecture chat program using Python. This project is the result of work from COMP3234 Computer and Communication Networks from HKUCS.
 
 ## Prerequisites
 Python 3 is required for running this project. If not installed, please visit the [download site](https://www.python.org/).
