@@ -21,6 +21,6 @@ chmod 777 room_server_64
 P2PChat.py <server_ip> <server_port> <my_listening_port>
 ~~~
   
-Replace the arguments in brackets with corresponding inputs. By default, the server listens the port 32340, unless the optional argument is given while executing it. Choose any appropriate port number to your liking for <my_listening_port>, although no other client instances should be sharing the port.
+Replace the arguments in brackets with corresponding inputs. By default, the server listens the port 32340, unless the optional argument is given while executing it. Choose any appropriate port number to your liking for ```<my_listening_port>```, although no other client instances should be sharing the port.
  
 Enjoy!
