@@ -1,12 +1,5 @@
 #!/usr/bin/python3
 
-# Student name and No.: Susanto Christopher Alvin 3035371915
-# Student name and No.: Chau Wing Yu 3035377660
-# Development platform: Windows 10
-# Python version: Python3
-# Version: 2.0
-
-
 from tkinter import *
 import sys
 import socket
