@@ -1,5 +1,5 @@
 # P2PChat
-An academic project on implementing a P2P and client-server architecture chat program using Python. This project is the result of work from COMP3234 Computer and Communication Networks from HKUCS.
+An academic project on implementing a P2P and client-server architecture chat program using Python. This project is the result of work from COMP3234 Computer and Communication Networks from HKU CS.
 
 ## Prerequisites
 Python 3 is required for running this project. If not installed, please visit the [download site](https://www.python.org/).
@@ -22,3 +22,5 @@ P2PChat.py <server_ip> <server_port> <my_listening_port>
 ~~~
   
 Replace the arguments in brackets with corresponding inputs. By default, the server listens the port 32340, unless the optional argument is given while executing it. Choose any appropriate port number to your liking for <my_listening_port>, although no other client instances should be sharing the port.
+ 
+Enjoy!
