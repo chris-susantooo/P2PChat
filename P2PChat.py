@@ -189,7 +189,7 @@ def remove_socket(sock):
 	
 	sock.close()
 	#downgrade status if we are not connected anymore
-	if not fdlink and not writeList: #if no forward link, no backward link
+	if not fdlink and not writeList: #if no any forward link and backward link
 		status = "JOINED"
 	
 	get_gList() #retrieve newest membership list
