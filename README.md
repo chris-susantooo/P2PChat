@@ -1,6 +1,9 @@
 # P2PChat
 An academic project on implementing a P2P and client-server architecture chat program using Python.
 
+## Prerequisites
+Python 3 is required for running this project. If not installed, please visit the [download site](https://www.python.org/).
+
 ## Usage
 We need to first execute the server program, it keeps track on the grouping information,  such as the number of groups, and membership information of each group, etc.
 Then we can run the P2PChat client afterwards.  
